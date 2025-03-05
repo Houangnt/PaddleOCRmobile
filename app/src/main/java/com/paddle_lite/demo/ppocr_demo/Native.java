@@ -3,8 +3,8 @@ package com.baidu.paddle.lite.demo.ppocr_demo;
 import android.content.Context;
 import android.util.Log;
 
-import com.baidu.paddle.lite.demo.common.SDKExceptions;
-import com.baidu.paddle.lite.demo.common.Utils;
+import com.paddle_lite.demo.common.SDKExceptions;
+import com.paddle_lite.demo.common.Utils;
 
 public class Native {
     static {
