@@ -1,4 +1,4 @@
-package com.baidu.paddle.lite.demo.common;
+package com.paddle_lite.demo.common;
 
 public class SDKExceptions {
     public static class NoSDCardPermission extends Exception {
