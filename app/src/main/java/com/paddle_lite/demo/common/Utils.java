@@ -1,4 +1,4 @@
-package com.baidu.paddle.lite.demo.common;
+package com.paddle_lite.demo.common;
 
 import android.content.Context;
 import android.content.pm.PackageManager;
